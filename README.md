@@ -1,6 +1,3 @@
-Here’s the updated `README.md` reflecting the changes:
-
----
 
 # PDF Reader App
 
@@ -78,7 +75,3 @@ For any inquiries or feedback, feel free to reach out:
 
 - **Email:** [techaashish05@gmail.com](mailto:techaashish05@gmail.com)
 - **LinkedIn:** [Aashish Kumar](https://www.linkedin.com/in/aashish05kumar/)
-
----
-
-This `README.md` now accurately reflects the features and packages used in your project.
